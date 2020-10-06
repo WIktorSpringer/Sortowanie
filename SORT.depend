@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1583768328 source:/home/wiktor/PROJEKTY_PAMSI/SORT/sort_scalanie.cpp
+	"sort_scalanie.hpp"
+
+1583963355 /home/wiktor/PROJEKTY_PAMSI/SORT/sort_scalanie.hpp
+
+1584911492 source:/home/wiktor/PROJEKTY_PAMSI/SORT/main.cpp
+	<iostream>
+	<cstdlib>
+	"scalanie.hpp"
+	"tablica.hpp"
+	<ctime>
+	"quick.hpp"
+	"kopiec.hpp"
+	"introspektywne.hpp"
+
+1585052935 /home/wiktor/PROJEKTY_PAMSI/SORT/tablica.hpp
+	<iostream>
+
+1583793138 source:/home/wiktor/PROJEKTY_PAMSI/SORT/tablica.cpp
+	"tablica.hpp"
+
+1584891364 /home/wiktor/PROJEKTY_PAMSI/SORT/scalanie.hpp
+	"tablica.hpp"
+
+1584893334 /home/wiktor/PROJEKTY_PAMSI/SORT/quick.hpp
+
+1584894381 /home/wiktor/PROJEKTY_PAMSI/SORT/kopiec.hpp
+
+1584908507 /home/wiktor/PROJEKTY_PAMSI/SORT/introspektywne.hpp
+	<cmath>
+	<algorithm>
+
